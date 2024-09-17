@@ -49,6 +49,11 @@ The graphic above shows High school and Graduate degree have a high WORDSUM scor
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 
+```{r}
+favstats(WORDSUM~DEGREE,data=Gss)
+```
+
+Based on the numerical results I can see that graduate degree has a high Q1 of 10 compared to LT high school with the Q3 of 8.25 and mean LT which has a result of 7 which is the lowest of all degree. This is important because the difference between both graduate degree and LT high school is quite a difference when there is able the same amount of people, and I can see that with the median results.
 
 ## Inferential Results
 
