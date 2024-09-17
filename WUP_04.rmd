@@ -1,6 +1,6 @@
 ---
 title: "WUP_04"
-author: "Kimberly Salazar"
+author: "Kimberly Salazar "
 date: "fall 2024"
 output:
   html_document:
